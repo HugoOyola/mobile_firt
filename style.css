@@ -507,6 +507,11 @@ main {
   color: var(--black);
 }
 
+.plan-card--ca:hover {
+  background-color: var(--bitcoin-orange);
+  color: var(--just-white);
+}
+
 .plan-card--ca span {
   display: inline-block;
   width: 20px;
